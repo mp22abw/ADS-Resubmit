@@ -170,3 +170,4 @@ line_plot(Urban_pop_data, "Urban population (% of total population)",
 # function to return the mean of greenhouse gas emission
 mean = greenhouse_data_mean()
 mean = mean.to_csv("mean_of_greenhouse_gas.csv")
+
